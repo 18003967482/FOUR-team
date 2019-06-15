@@ -1,0 +1,22 @@
+
+.ysbg {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 144px;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0));
+}
+#head a {
+    color: aliceblue;
+}
+#head a:hover {
+    background-color: rgba(0,0,0,0);
+    font-weight: bold;
+}
+.footer {
+    text-align: center;
+    line-height: 30px;
+    height: 60px;
+    background: rgba(0,0,0,0.4);
+    width: 100%;
+}
